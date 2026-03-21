@@ -1,1 +1,1 @@
-Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt vời, chăm hỏi thầy và nghe lời là dễ qua thôi!
+Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt vời, chăm hỏi thầy và nghe lời là dễ qua thôi! Thầy sẽ có cái form riêng để code theo, có gì không rõ thì chăm hỏi thầy vào là được, code của thầy cần kỹ, đủ theo yêu cầu checklist mới được review và chăm đi code ngoài là một điểm cộng. Chúc bạn may mắn!!!
