@@ -4,7 +4,7 @@ Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt v�
 | Exercise   | Description                                              | LOC |
 |------------|---------------------------------------------------------|-----|
 | [J1.S.P0061](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/Shape) | Shape                                                   | 42  |
-| [J1.S.P0052] | Country                                                 | 69  |
+| [J1.S.P0052](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/Country) | Country                                                 | 69  |
 | [J1.S.P0055](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/DoctorManagement) | Doctor Management                                       | 73  |
 | [J1.S.P0056] | Worker Management                                       | 120 |
 | [J1.S.P0071] | Task Management                                         | 150 |
