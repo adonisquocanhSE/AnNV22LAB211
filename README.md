@@ -10,11 +10,11 @@
 
 ## 📌 Notes from experience
 
-> Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt vời, chăm hỏi thầy và nghe lời là dễ qua thôi!  
-> Thầy sẽ có cái form riêng để code theo. Trong quá trình học có gì không rõ thì chăm hỏi thầy vào là được.  
-> Code của thầy cần kỹ, đủ theo yêu cầu checklist mới được review và chăm đi code ngoài là một điểm cộng.  
-> Phải thật là kiên trì và chịu khó nhé!  
->  
+- Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt vời, chăm hỏi thầy và nghe lời là dễ qua thôi!  
+- Thầy sẽ có cái form riêng để code theo. Trong quá trình học có gì không rõ thì chăm hỏi thầy vào là được.  
+- Code của thầy cần kỹ, đủ theo yêu cầu checklist mới được review và chăm đi code ngoài là một điểm cộng.  
+- Phải thật là kiên trì và chịu khó nhé!  
+  
 > 💪 **Chúc các bạn may mắn!!!**
 
 ---
