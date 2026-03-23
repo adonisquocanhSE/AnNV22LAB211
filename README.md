@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Course-LAB211-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-PASSED-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
