@@ -43,6 +43,7 @@
 | [J1.S.P0071](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/TaskManagement) | Task Management | 150 |
 | [J1.S.P0070](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/EbankLoginSystem) | Ebank Login System | 150 |
 | [J1.S.P0021](https://github.com/adonisquocanhSE/AnNV22LAB211/tree/main/StudentManagement) | Student Management | 175 |
+| Total| | 778 |
 
 ---
 
