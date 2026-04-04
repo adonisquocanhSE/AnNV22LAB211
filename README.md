@@ -12,7 +12,8 @@
 
 - Học thầy AnNV22 thì cố gắng mà pass bằng được. Thầy tuyệt vời, chăm hỏi thầy và nghe lời là dễ qua thôi!  
 - Thầy sẽ có cái form riêng để code theo. Trong quá trình học có gì không rõ thì chăm hỏi thầy vào là được.  
-- Code của thầy cần kỹ, đủ theo yêu cầu checklist mới được review và chăm đi code ngoài là một điểm cộng.  
+- Code của thầy cần kỹ, đủ theo yêu cầu checklist mới được review và chăm đi code ngoài là một điểm cộng.
+- Code trong repo này chỉ mang tính chất tham khảo theo đúng format, trong quá trình review code sẽ sửa theo yêu cầu của thầy.
 - Phải thật là kiên trì và chịu khó nhé!  
   
 > 💪 **Chúc các bạn may mắn!!!**
@@ -47,17 +48,6 @@
 
 ---
 
-## 📈 Overall Progress
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Completed-7%20Exercises-yellow?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  [███████░░░] 70%
-</p>
-
----
 
 ## 📉 LOC Progress
 
